@@ -11,7 +11,7 @@ def load_home_page():
         I recently completed a data science course and am passionate about leveraging data to drive impactful insights and solutions.
         """)
         # Download Resume button
-        with open("Amit-Negi-Resume.pdf", "rb") as file:
+        with open("resume1 (1).pdf", "rb") as file:
             resume_data = file.read()
 
         # Provide the download button
