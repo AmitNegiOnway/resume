@@ -217,6 +217,7 @@ def load_pp_page():
             Data Analysis Project: Leveraging Data Scraping and Visualization for Insights in the Hospitality Industry 
             </div><hr>
             """, unsafe_allow_html=True)
+    st.markdown('https://goa-resort-analysis.streamlit.app/')
 
     st.write("""
         <div>
