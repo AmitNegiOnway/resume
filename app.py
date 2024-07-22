@@ -101,7 +101,7 @@ def load_pp_page():
 
 
 
-    
+    st.markdown("https://hotel-jobs-analysis.streamlit.app/")
     st.write("""
         <div>
             <span style="color: green;">🔸</span>
