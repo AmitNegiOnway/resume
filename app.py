@@ -5,7 +5,7 @@ def load_home_page():
 
     with col1:
         st.title("Amit Negi")
-        st.write("Aspiring Data Scientist")
+       
         st.subheader("About Me")
         st.write("""
         I recently completed a data science course and am passionate about leveraging data to drive impactful insights and solutions.
